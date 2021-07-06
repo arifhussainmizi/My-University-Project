@@ -1,0 +1,1 @@
+This app is work only same router network. Fistly you enter IP address (Which device you send encrypted data). You must be open java socket program.
